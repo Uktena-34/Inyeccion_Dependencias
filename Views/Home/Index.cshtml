@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Inyeccion_Dependencias.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+   @foreach(var element in Model)
+    {
+        <div>@element.Nombre</div>
+    }
+
+</div>

@@ -1,0 +1,5 @@
+﻿El patron de Inyeccion de dependencias de software nos permite desarrollar componentes acoplados libremente 
+o desaclopados para obtener como resultado la facil gestion de cambios en un futuro.
+
+Gracias a esto conseguimos que cada clase funcione de manera unica, facilitando de esta manera el mantenimiento y conprencion
+del codigo.
